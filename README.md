@@ -1,9 +1,4 @@
-
-```bash
-Hotel Data Analytics
-Domain: Hospitality
-```
-Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+# Hotel Data Analytics | Domain: Hospitality | [Link to Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ## Hospitality Domain Data Analysis Project: [_(Click Here for Codes)_](https://github.com/chandreshkhuntia/Atliq-Hotel-Data-Analytics-on-Python/blob/main/Atliq%20Hotel%20Data%20Analysis.ipynb)
 
@@ -15,20 +10,20 @@ Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project
 
 ## Technical Skills: 
 
-1. Used Pandas Library for Data cleaning, Data transformation, Data, aggregation, Exploratory data analysis (EDA), Statistical analysis 
+- [x] Used Pandas Library for Data cleaning, Data transformation, Data, aggregation, Exploratory data analysis (EDA), Statistical analysis 
 
-2. Utilizing Regex for data processing and manipulation. 
+- [x] Utilizing Regex for data processing and manipulation. 
 
-3. Learning and applying Python concepts: 
+- [x] Learning and applying Python concepts: 
 
-4. Object-oriented programming (OOP) for building the program. 
+- [x] Object-oriented programming (OOP) for building the program. 
 
-5. File handling for managing input/output files. 
+- [x] File handling for managing input/output files. 
 
-6. Exception handling for handling errors gracefully. 
+- [x] Exception handling for handling errors gracefully. 
 
-7. Working with inbuilt data structures. 
+- [x] Working with inbuilt data structures. 
 
 ## Soft Skills: 
 
-1. Refined understanding of Hospitality Domain Data Analytics 
+- [x] Refined understanding of Hospitality Domain Data Analytics 
