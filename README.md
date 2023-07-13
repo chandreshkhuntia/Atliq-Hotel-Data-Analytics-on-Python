@@ -29,6 +29,6 @@ Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project
 
 7. Working with inbuilt data structures. 
 
-Soft Skills: 
+## Soft Skills: 
 
 1. Refined understanding of Hospitality Domain Data Analytics 
