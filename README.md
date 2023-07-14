@@ -8,7 +8,7 @@
 
 3. Mastered the utilization of the Pandas library to optimize data cleansing and transformations. 
 
-## Technical Skills: 
+## Technical Skills Gained: 
 
 - [x] Used Pandas Library for Data cleaning, Data transformation, Data, aggregation, Exploratory data analysis (EDA), Statistical analysis 
 
