@@ -24,6 +24,6 @@
 
 - [x] Working with inbuilt data structures. 
 
-## Soft Skills: 
+## Soft Skills Gained: 
 
 - [x] Refined understanding of Hospitality Domain Data Analytics 
